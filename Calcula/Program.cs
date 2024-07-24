@@ -43,3 +43,4 @@ class Program
         Console.WriteLine($"Result: {result}");
     }
 }
+// Hello anh em, toi la Ly Thai Cuong, va day la bai hoc dau tien ve lap trinh C# cua chung ta. Trong bai hoc nay, chung ta se tao ra mot chuong trinh may tinh co ban. Chung ta se nhap vao hai so va mot phep toan, sau do chuong trinh se tinh toan va in ra ket qua. Hay bat dau nhe!
